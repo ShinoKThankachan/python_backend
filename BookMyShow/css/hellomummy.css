@@ -107,10 +107,11 @@ ul.navitem1 li {
 .banner{
     background-image: linear-gradient(90deg, rgb(26, 26, 26) 24.97%, rgb(26, 26, 26) 38.3%, rgba(26, 26, 26, 0.04) 97.47%, rgb(26, 26, 26) 100%),url('../images/hello-mummybanner.avif');
     background-size: cover;
+    height: 600px;
 }
 
 .movie-poster {
-    width: 100%;
+    width: 78%;
     border-radius: 10px;
 }
 
